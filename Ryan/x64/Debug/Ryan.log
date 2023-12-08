@@ -1,49 +1,37 @@
 ﻿  yuhanCG.cpp
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(91,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(91,34): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(97,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(97,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(97,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(103,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(103,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(103,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(103,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(110,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(110,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(111,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(111,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(112,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(112,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(113,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(113,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(116,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(116,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(117,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(117,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(118,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(118,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(119,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(119,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(122,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(122,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(123,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(123,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(124,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(124,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(125,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(125,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(99,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(99,34): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(105,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(105,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(105,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(111,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(111,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(111,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(111,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(119,135): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(119,104): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(119,74): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(119,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(122,137): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(122,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(122,76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(122,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(128,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(128,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(128,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(128,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(131,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(131,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(131,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(131,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(134,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(134,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(134,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(134,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(139,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(140,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(141,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(142,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(145,22): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(146,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(138,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(139,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(140,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(141,16): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(144,19): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(145,19): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(151,95): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(151,86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(151,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\work\chap05\MIDTERM_EXAM\Ryan\yuhanCG.cpp(151,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Ryan.vcxproj -> C:\work\chap05\MIDTERM_EXAM\x64\Debug\Ryan.exe
